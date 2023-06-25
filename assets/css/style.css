@@ -8,7 +8,8 @@
 
 body {
     font-family: DM-Sans, sans-serif;
-    color: orange;
+    background-color: #fff8f0;
+    color: #f39237;
 }
 
 /* heading and logo */
@@ -17,7 +18,7 @@ body {
     height: 200px;
     background: url(../images/dog-playing.jpeg) no-repeat center 40%;
     background-size: cover;
-    border: 3px solid orange;
+    border: 3px solid #f39237;
     width: 100%;
     box-sizing: border-box;
 }
@@ -27,7 +28,7 @@ h2 {
     font-family: Crimson-Pro, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: orange;
+    color: #f39237;
     text-align: center;
 }
 
@@ -66,14 +67,15 @@ h2 {
 .left-information {
     width: 30%;
     height: 650px;
-    background-color: grey;
-    border: 3px solid orange;
+    background-color: #8c92ac;
+    border-left: 3px solid #f39237;
+    border-right: 3px solid #f39237;
     box-sizing: border-box;
     float: left;
 }
 
 .left-information aside {
-    color: white;
+    color: #fff8f0;
     font-size: 140%;
     padding: 10px;
     letter-spacing: 3px;
@@ -98,9 +100,9 @@ h2 {
 .dog-boxes div {
     height: 295px;
     width: 30%;
-    background-color: blue;
+    background-color: grey;
     display: inline-block;
-    border: 3px solid orange;
+    border: 3px solid #f39237;
     box-sizing: border-box;
 }
 
@@ -134,7 +136,7 @@ h2 {
 
 footer {
     height: 100px;
-    border: 3px solid orange;
+    border: 3px solid #f39237;
     box-sizing: border-box;
 }
 
@@ -150,6 +152,6 @@ footer {
 
 .social-media i {
     font-size: 200%;
-    color: orange;
+    color: #f39237;
     padding: 50px;
 }
