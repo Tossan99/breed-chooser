@@ -13,11 +13,11 @@ body {
 
 /* heading and logo */
 
-#header-background {
+#header {
     height: 200px;
-    background: url(../images/dog-playing.jpeg) no-repeat center center;
+    background: url(../images/dog-playing.jpeg) no-repeat center 40%;
     background-size: cover;
-    border: 5px solid orange;
+    border: 3px solid orange;
     width: 100%;
     box-sizing: border-box;
 }
@@ -67,12 +67,12 @@ h2 {
     width: 30%;
     height: 650px;
     background-color: grey;
-    border: 5px solid orange;
+    border: 3px solid orange;
     box-sizing: border-box;
     float: left;
 }
 
-.left-information p {
+.left-information aside {
     color: white;
     font-size: 140%;
     padding: 10px;
@@ -96,8 +96,9 @@ h2 {
 .dog-boxes div {
     height: 300px;
     width: 30%;
-    background-color: red;
+    background-color: blue;
     display: inline-block;
+    border: 3px solid orange;
 }
 
 .top-left-box {
@@ -113,6 +114,11 @@ h2 {
     margin: 10px 20px 20px 10px;
 }
 
+.top-left-box, .top-right-box, .bottom-left-box, .bottom-right-box 
+   
+.dog-box-header {
+    
+}
 
 
 
@@ -122,7 +128,7 @@ h2 {
 /* footer and social media links */
 
 footer {
-    height: 150px;
+    height: 100px;
 }
 
 .social-media {
