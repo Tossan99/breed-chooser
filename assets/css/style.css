@@ -104,18 +104,26 @@ h2 {
 
 .top-left-box {
     margin: 1% 0.5% 0.5% 1%;
+    background-image: url(../images/australian-shepard.jpeg);
+    background-size: cover;
 }
 
 .top-right-box {
     margin: 1% 1% 0.5% 0.5%;
+    background-image: url(../images/basset-hound.jpeg);
+    background-size: cover;
 }
 
 .bottom-left-box {
     margin: 0.5% 0.5% 1% 1%;
+    background-image: url(../images/golden-retriever.webp);
+    background-size: cover;
 }
 
 .bottom-right-box {
     margin: 0.5% 1% 1% 0.5%;
+    background-image: url(../images/shih-tzu.jpeg);
+    background-size: cover;
 }
 
 .top-left-box,
