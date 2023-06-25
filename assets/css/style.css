@@ -8,8 +8,44 @@
 
 body {
     font-family: DM-Sans, sans-serif;
+    color: orange;
 }
+
+/* heading and logo */
 
 h1, h2 {
     font-family: Crimson-Pro, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: orange;
 }
+
+#logo {
+    float: left;
+    font-size: 300%;
+    margin-left: 30px;
+}
+
+/* nav menu */
+
+#menu {
+    font-size: 170%;
+    letter-spacing: 3px;
+    float: right;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 50px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
