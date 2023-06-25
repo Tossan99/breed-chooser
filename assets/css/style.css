@@ -69,6 +69,7 @@ h2 {
     background-color: grey;
     border: 5px solid orange;
     box-sizing: border-box;
+    float: left;
 }
 
 .left-information p {
@@ -84,7 +85,33 @@ h2 {
     padding: 10px;
 }
 
+/* dog boxes */
 
+.dog-boxes {
+    float: center;
+
+
+}
+
+.dog-boxes div {
+    height: 300px;
+    width: 30%;
+    background-color: red;
+    display: inline-block;
+}
+
+.top-left-box {
+    margin: 20px 10px 10px 20px;
+}
+.top-right-box {
+    margin: 20px 20px 10px 10px;
+}
+.bottom-left-box {
+    margin: 10px 10px 20px 20px;
+}
+.bottom-right-box {
+    margin: 10px 20px 20px 10px;
+}
 
 
 
@@ -103,7 +130,7 @@ footer {
 
 }
 
-.social-media > li {
+.social-media>li {
     display: inline;
 
 }
