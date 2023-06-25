@@ -91,15 +91,11 @@ h2 {
 
 .dog-boxes {
     height: 650px;
-    float: center;
-    box-sizing: border-box;
-
-
 }
 
 .dog-boxes div {
     height: 295px;
-    width: 30%;
+    width: 33%;
     background-color: grey;
     display: inline-block;
     border: 3px solid #f39237;
@@ -107,19 +103,19 @@ h2 {
 }
 
 .top-left-box {
-    margin: 20px 10px 10px 20px;
+    margin: 1% 0.5% 0.5% 1%;
 }
 
 .top-right-box {
-    margin: 20px 20px 10px 10px;
+    margin: 1% 1% 0.5% 0.5%;
 }
 
 .bottom-left-box {
-    margin: 10px 10px 20px 20px;
+    margin: 0.5% 0.5% 1% 1%;
 }
 
 .bottom-right-box {
-    margin: 10px 20px 20px 10px;
+    margin: 0.5% 1% 1% 0.5%;
 }
 
 .top-left-box,
