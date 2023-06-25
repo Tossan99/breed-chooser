@@ -88,37 +88,42 @@ h2 {
 /* dog boxes */
 
 .dog-boxes {
+    height: 650px;
     float: center;
+    box-sizing: border-box;
 
 
 }
 
 .dog-boxes div {
-    height: 300px;
+    height: 295px;
     width: 30%;
     background-color: blue;
     display: inline-block;
     border: 3px solid orange;
+    box-sizing: border-box;
 }
 
 .top-left-box {
     margin: 20px 10px 10px 20px;
 }
+
 .top-right-box {
     margin: 20px 20px 10px 10px;
 }
+
 .bottom-left-box {
     margin: 10px 10px 20px 20px;
 }
+
 .bottom-right-box {
     margin: 10px 20px 20px 10px;
 }
 
-.top-left-box, .top-right-box, .bottom-left-box, .bottom-right-box 
-   
-.dog-box-header {
-    
-}
+.top-left-box,
+.top-right-box,
+.bottom-left-box,
+.bottom-right-box .dog-box-header {}
 
 
 
@@ -129,6 +134,8 @@ h2 {
 
 footer {
     height: 100px;
+    border: 3px solid orange;
+    box-sizing: border-box;
 }
 
 .social-media {
