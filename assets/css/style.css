@@ -77,21 +77,19 @@ h2 {
     height: 650px;
     box-sizing: border-box;
     float: left;
-}
-
-.left-information aside {
     color: #27374D;
-    font-size: 140%;
-    padding: 30px;
-    letter-spacing: 3px;
-    text-align: center;
 }
 
 .left-information h2 {
-    margin-top: 30px;
     font-size: 200%;
-    padding: 10px;
-    color: #27374D;
+}
+
+.left-information>p {
+    font-size: 200%;
+}
+
+hr {
+    margin-top: 20px;
 }
 
 /* dog boxes */
@@ -160,7 +158,6 @@ h2 {
 
 footer {
     height: 100px;
-    box-sizing: border-box;
 }
 
 .social-media {
@@ -174,7 +171,7 @@ footer {
 }
 
 .social-media i {
-    font-size: 200%;
+    font-size: 300%;
     color: #27374D;
     padding: 50px;
 }
