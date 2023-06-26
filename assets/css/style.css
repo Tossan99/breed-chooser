@@ -40,7 +40,7 @@ h2 {
 /* nav menu */
 
 #menu {
-    font-size: 130%;
+    font-size: 200%;
     letter-spacing: 3px;
     float: right;
 }
@@ -60,6 +60,15 @@ h2 {
     text-decoration: none;
     color: inherit;
 }
+
+#menu a:hover {
+    border-bottom: 2px solid #27374D;
+}
+
+.active {
+    border-bottom: 2px solid #27374D;
+}
+
 
 /* left side information box */
 
@@ -145,15 +154,6 @@ h2 {
     width: 100%;
     overflow: hidden;
 }
-
-.top-left-box,
-.top-right-box,
-.bottom-left-box,
-.bottom-right-box .dog-box-header {}
-
-
-
-
 
 
 /* footer and social media links */
