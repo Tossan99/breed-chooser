@@ -16,8 +16,6 @@ body {
 
 #header {
     height: 100px;
-    /* background: url(../images/dog-playing.jpeg) no-repeat center 40%; */
-    background-size: cover;
     border: 3px solid #27374D;
     width: 100%;
     box-sizing: border-box;
@@ -29,9 +27,8 @@ h2 {
     font-family: Crimson-Pro, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #DDE6ED;
+    color: #27374D;
     text-align: center;
-    -webkit-text-stroke: 2px #27374D;
 }
 
 #logo {
@@ -100,31 +97,53 @@ h2 {
     display: inline-block;
     border: 3px solid #27374D;
     box-sizing: border-box;
-    font-size: 140%;
+}
+
+.dog-boxes h2 {
+    padding-top: 20px;
+    font-size: 210%;
+    -webkit-text-stroke: 2px #27374D;
+    color: #DDE6ED;
 }
 
 .top-left-box {
     margin: 1% 0.5% 0.5% 1%;
     background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 }
 
 .top-right-box {
     margin: 1% 1% 0.5% 0.5%;
     background-image: url(../images/pug.jpeg);
+    background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 }
 
 .bottom-left-box {
     margin: 0.5% 0.5% 1% 1%;
     background-image: url(../images/golden-retriever.jpeg);
+    background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 }
 
 .bottom-right-box {
     margin: 0.5% 1% 1% 0.5%;
     background-image: url(../images/shih-tzu.jpeg);
+    background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
 }
 
 .top-left-box,
