@@ -105,6 +105,7 @@ hr {
     box-sizing: border-box;
 }
 
+/* animates zoom effect when hovering over dog-boxes */
 .dog-boxes div:hover {
     height: 295px;
     width: 33%;
@@ -112,7 +113,7 @@ hr {
     border: 3px solid blue;
     box-sizing: border-box;
 
-    /* animates zoom effect when hovering over dog-boxes */
+
     animation-name: dog-boxes-zoom;
     animation-duration: 1.5s;
     animation-fill-mode: forwards;
@@ -195,4 +196,59 @@ footer {
     font-size: 300%;
     color: #27374D;
     padding: 50px;
+}
+
+/* animates zoom effect when hovering over the facbook icon */
+.facebook i:hover {
+    font-size: 300%;
+    color: #0165E1;
+    padding: 50px;
+
+    animation-name: social-media-zoom;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+}
+
+/* animates zoom effect when hovering over the youtube icon */
+.youtube i:hover {
+    font-size: 300%;
+    color: #c4302b;
+    padding: 50px;
+
+    animation-name: social-media-zoom;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+}
+
+/* animates zoom effect when hovering over the instagram icon */
+.instagram i:hover {
+    font-size: 300%;
+    color: #833AB4;
+    padding: 50px;
+
+    animation-name: social-media-zoom;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+}
+
+/* animates zoom effect when hovering over the twitter icon */
+.twitter i:hover {
+    font-size: 300%;
+    color: #00acee;
+    padding: 50px;
+
+    animation-name: social-media-zoom;
+    animation-duration: 1.5s;
+    animation-fill-mode: forwards;
+}
+
+/* creates the level of zoom for social media icons */
+@keyframes social-media-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.4);
+    }
 }
