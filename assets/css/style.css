@@ -294,7 +294,15 @@ hr {
     color: #27374D;
 }
 
+/* style for circle class */
 
+.circle {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 0 auto;
+    background-color: blue;
+}
 
 /* footer and social media links */
 
