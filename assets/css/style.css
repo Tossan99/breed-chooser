@@ -10,6 +10,7 @@
 body {
     font-family: DM-Sans, sans-serif;
     background-color: #DDE6ED;
+    margin: 20px;
 
 }
 
@@ -62,7 +63,8 @@ h3 {
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #27374D;
+    border-bottom: 2px solid #0014FF;
+    color: #0014FF;
 }
 
 .active {
@@ -111,7 +113,7 @@ hr {
     height: 295px;
     width: calc(35% - 60px);
     display: inline-block;
-    border: 3px solid blue;
+    border: 4px solid #0014FF;
 
 
     animation-name: dog-boxes-zoom;
@@ -228,7 +230,7 @@ hr {
 }
 
 .form-input:hover {
-    border-color: blue;
+    border-color: #0014FF;
 }
 
 .form-radio>li {
@@ -240,7 +242,6 @@ hr {
 
 .submit-button {
     font-size: 100%;
-    color: blue;
     background-color: #27374D;
     padding: 10px 20px 10px 20px;
     border: 1px solid #DDE6ED;
@@ -248,9 +249,9 @@ hr {
 }
 
 .submit-button:hover {
-    background-color: #DDE6ED;
-    border-color: #DDE6ED;
-    color: #27374D;
+    background-color: #27374D;
+    border-color: #0014FF;
+    color: #0014FF;
 
 }
 
