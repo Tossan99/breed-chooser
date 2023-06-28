@@ -177,6 +177,18 @@ hr {
     overflow: hidden;
 }
 
+/* sign up page */
+
+#sign-up-image {
+    background-image: url(../images/sign-up-background.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+
+
+
+
 /* footer and social media links */
 
 footer {
