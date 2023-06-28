@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -12,13 +13,12 @@ body {
 
 }
 
-/* heading and logo */
+/* header and logo */
 
 #header {
     height: 100px;
     border: 3px solid #27374D;
     width: 100%;
-    box-sizing: border-box;
     background-color: #9DB2BF;
 }
 
@@ -73,14 +73,15 @@ h2 {
 /* left side information box */
 
 .left-information {
-    width: 30%;
+    width: 27%;
     height: 650px;
-    box-sizing: border-box;
+    margin: 1% 1% 1% 2%;
+    border: 2px solid #27374D;
+    padding: 20px;
+    background-color: #9DB2BF;
+    font-size: 140%;
     float: left;
     color: #27374D;
-    padding: 40px;
-    font-size: 160%;
-
 }
 
 .left-information h2 {
@@ -88,7 +89,7 @@ h2 {
 }
 
 hr {
-    margin-top: 25px;
+    margin-top: 20px;
 }
 
 /* dog boxes */
@@ -102,7 +103,7 @@ hr {
     width: 33%;
     display: inline-block;
     border: 3px solid #27374D;
-    box-sizing: border-box;
+
 }
 
 /* animates zoom effect when hovering over dog-boxes */
@@ -111,7 +112,6 @@ hr {
     width: 33%;
     display: inline-block;
     border: 3px solid blue;
-    box-sizing: border-box;
 
 
     animation-name: dog-boxes-zoom;
