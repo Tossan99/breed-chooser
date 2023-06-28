@@ -75,7 +75,7 @@ h3 {
 
 .aside-index {
     width: calc(30% - 30px);
-    height: 700px;
+    height: 650px;
     margin: 30px;
     border: 2px solid #27374D;
     padding: 20px;
@@ -266,6 +266,21 @@ hr {
     background-color: #9DB2BF;
     float: left;
     color: #27374D;
+}
+
+.contact-box>h3 {
+    margin: 100px 20px 0px 20px;
+    font-size: 160%;
+}
+
+.contact-box>p {
+    margin: 0px 20px 0px 20px;
+    font-size: 160%;
+}
+
+.contact-box>hr {
+    border-bottom: 2px solid black;
+    margin: 0px 20px 0px 20px;
 }
 
 .map-box {
