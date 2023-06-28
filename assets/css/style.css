@@ -259,6 +259,7 @@ hr {
 
 footer {
     height: 100px;
+    clear: left;
 }
 
 .social-media {
