@@ -40,42 +40,56 @@
             </nav>
         </a>
     </header>
-    <aside class="left-information">
-        <h2>Finding the right dog</h2>
-        <hr>
-        After confirming that your home and lifestyle are suited to owning a dog, the next step is to decide
-        what type of dog
-        would be best for you.
-        <hr>
-        It's important to do your research to find the best match for you, your family and your lifestyle. With
-        so many choices
-        on offer, deciding on a breed isn't always easy.
-        <hr>
-        Try to learn as much as you can about the breeds you’re interested in. Find out about both the good
-        traits and the
-        downsides of owning any breeds you’re considering.
-    </aside>
+    <section>
+        <form action="https://formdump.codeinstitute.net/" method="post">
+            <h2>Sign up for our newsletter</h2>
 
-<footer>
-    <ul class="social-media">
-        <li class="facebook">
-            <a href="https://facebook.com" target="_blank" rel="noopener"
-                aria-label="Visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
-        </li>
-        <li class="youtube">
-            <a href="https://youtube.com" target="_blank" rel="noopener"
-                aria-label="Visit our Youtube page (opens in a new tab)"><i class="fa-brands fa-youtube"></i></a>
-        </li>
-        <li class="instagram">
-            <a href="https://instagram.com" target="_blank" rel="noopener"
-                aria-label="Visit our Instagram page (opens in a new tab)"><i class="fa-brands fa-instagram"></i></a>
-        </li>
-        <li class="twitter">
-            <a href="https://twitter.com" target="_blank" rel="noopener"
-                aria-label="Visit our Twitter page (opens in a new tab)"><i class="fa-brands fa-twitter"></i></a>
-        </li>
-    </ul>
-</footer>
+            <label for="fname" id="fname">First Name</label>
+            <input type="text" id="fname" name="first_name" class="form-input" required>
+
+            <label for="lname" id="lname">Last Name</label>
+            <input type="text" id="lname" name="last_name" class="form-input" required>
+
+            <label for="email" id="email">Email Address</label>
+            <input type="email" id="email" name="email_address" class="form-input" required>
+
+            <label for="phone" id="phone">Phone Number</label>
+            <input type="number" id="phone" name="phone_number" class="form-input" required>
+
+            <h3>Contact Method</h3>
+
+            <label for="by-text" id="by-text">Text Message</label>
+            <input type="radio" id="by-text" name="contact_preference" value="by-text" required>
+
+            <label for="by-email" id="by-email">Email</label>
+            <input type="radio" id="by-email" name="contact_preference" value="by-email">
+
+            <label for="by-both" id="by-both">Both</label>
+            <input type="radio" id="by-both" name="contact_preference" value="by-both">
+        </form>
+
+    </section>
+    <footer>
+        <ul class="social-media">
+            <li class="facebook">
+                <a href="https://facebook.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
+            </li>
+            <li class="youtube">
+                <a href="https://youtube.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Youtube page (opens in a new tab)"><i class="fa-brands fa-youtube"></i></a>
+            </li>
+            <li class="instagram">
+                <a href="https://instagram.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Instagram page (opens in a new tab)"><i
+                        class="fa-brands fa-instagram"></i></a>
+            </li>
+            <li class="twitter">
+                <a href="https://twitter.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Twitter page (opens in a new tab)"><i class="fa-brands fa-twitter"></i></a>
+            </li>
+        </ul>
+    </footer>
 
     <!-- font awsome script -->
     <script src="https://kit.fontawesome.com/6b05e2d640.js" crossorigin="anonymous"></script>
