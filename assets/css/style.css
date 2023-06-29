@@ -11,6 +11,7 @@ body {
     font-family: DM-Sans, sans-serif;
     background-color: #DDE6ED;
     margin: 20px;
+    color: #27374D;
 }
 
 /* header and logo */
@@ -297,23 +298,48 @@ hr {
 /* style for circle class */
 
 .circle {
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
-    margin: 0 auto;
-    background-color: blue;
+    background-color: rgb(144, 144, 243);
+    float: right;
+}
+
+/* breeds pages */
+
+.breed-section {
+    float: right;
+    width: calc(70% - 100px);
+    margin-right: 50px;
+    margin-left: 20px;
+    height: 700px;
+    overflow-x: scroll;
+}
+
+.breed-list {
+    list-style: none;
+    font-size: 140%;
+    text-align: center;
+}
+
+.breed-list-items {
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+.breed-list-items>p {
+    margin-top: 20px;
 }
 
 /* footer and social media links */
 
 footer {
     height: 100px;
-    clear: left;
+    clear: both;
 }
 
 .social-media {
     text-align: center;
-
 }
 
 .social-media>li {
