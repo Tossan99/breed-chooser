@@ -76,7 +76,7 @@ h3 {
 
 .aside-info {
     width: calc(30% - 30px);
-    height: 650px;
+    height: 625px;
     margin: 30px;
     border: 2px solid #27374D;
     padding: 20px;
@@ -264,7 +264,7 @@ hr {
 
 .contact-box {
     width: calc(30% - 30px);
-    height: 650px;
+    height: 625px;
     margin: 30px;
     border: 2px solid #27374D;
     background-color: #9DB2BF;
@@ -289,7 +289,7 @@ hr {
 
 .map-box {
     width: calc(70% - 60px);
-    height: 650px;
+    height: 625px;
     margin: 30px 30px 30px 0;
     border: 2px solid #27374D;
     background-color: #9DB2BF;
