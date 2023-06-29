@@ -693,7 +693,7 @@ footer {
 @media screen and (max-width: 1000px) {
     .aside-info {
         width: 93%;
-        margin: 30px;
+        margin: 3.5%;
         height: 300px;
         font-size: 140%;
     }
@@ -702,6 +702,7 @@ footer {
         width: 93%;
         height: 290px;
         font-size: 80%;
+        margin: 3.5%;
     }
 
     .contact-box > h3 {
@@ -760,6 +761,25 @@ footer {
 }
 
 @media screen and (max-width: 800px) {
+    #logo {
+        font-size: 230%;
+    }
 
+    #menu li{
+        margin-right: 20px;
+    }
+
+    #menu {
+        font-size: 140%;
+        line-height: 1px;
+    }
+
+    #header {
+        height: 130px;
+    }
+
+    .aside-info{
+        height: 350px;
+    }
 }
 
