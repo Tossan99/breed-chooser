@@ -307,7 +307,229 @@ hr {
     float: right;
 }
 
-.circle-active1{
+.circle-active1 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+/* circle images for all pages */
+
+.circle-active1 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-active2 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-active3 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-active4 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-active5 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-inactive1 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-inactive2 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-inactive3 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-inactive4 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-inactive5 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-family1 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-family2 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-family3 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-family4 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-family5 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-hypo1 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-hypo2 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-hypo3 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-hypo4 {
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 1px auto;
+}
+
+.circle-hypo5 {
     background-image: url(../images/belgian-alinois.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -343,7 +565,7 @@ hr {
 .breed-list-items>p {
     padding-top: 20px;
     margin-right: 50px;
-    
+
 }
 
 /* footer and social media links */
