@@ -115,6 +115,7 @@ hr {
     animation-name: dog-boxes-zoom;
     animation-duration: 1.5s;
     animation-fill-mode: forwards;
+    border: 3px solid #9DB2BF;
 }
 
 /* creates the level of zoom for dog-boxes images */
