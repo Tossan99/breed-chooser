@@ -298,11 +298,22 @@ hr {
 /* style for circle class */
 
 .circle {
+    width: 306px;
+    height: 306px;
+    border-radius: 50%;
+    border: 3px solid #27374D;
+    float: right;
+}
+
+.circle-active1{
+    background-image: url(../images/belgian-alinois.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    background-color: rgb(144, 144, 243);
-    float: right;
+    margin: 1px auto;
 }
 
 /* breeds pages */
@@ -328,7 +339,9 @@ hr {
 }
 
 .breed-list-items>p {
-    margin-top: 20px;
+    padding-top: 20px;
+    margin-right: 50px;
+    
 }
 
 /* footer and social media links */
