@@ -91,16 +91,17 @@ h3 {
     height: 625px;
     margin: 30px;
     border: 2px solid #27374D;
-    padding: 20px;
+    padding: 30px 20px 0px 20px;
     background-color: #9DB2BF;
-    font-size: 140%;
     float: left;
     color: #27374D;
     text-align: center;
+    font-size: 150%;
 }
 
 .aside-info h2 {
-    font-size: 160%; 
+    font-size: 130%; 
+    margin-bottom: 30px;
 }
 
 hr {
@@ -578,7 +579,8 @@ hr {
 
 .breed-list-items>p {
     padding-top: 20px;
-    margin-right: 50px;
+    margin-right: 100px;
+    font-size: 130%;
 
 }
 
@@ -657,3 +659,5 @@ footer {
         transform: scale(1.4);
     }
 }
+
+/* */
