@@ -12,18 +12,6 @@ body {
     background-color: #DDE6ED;
     margin: 20px;
     color: #27374D;
-
-    /* Hide scrollbar for IE, Edge and Firefox */
-    /* IE and Edge */
-    -ms-overflow-style: none;
-
-    /* Firefox */
-    scrollbar-width: none;
-}
-
-/* Hide scrollbar for Chrome, Safari and Opera */
-body::-webkit-scrollbar {
-    display: none;
 }
 
 /* header and logo */
@@ -772,6 +760,6 @@ footer {
 }
 
 @media screen and (max-width: 800px) {
-    
+
 }
 
