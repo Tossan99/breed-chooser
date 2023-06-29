@@ -100,7 +100,7 @@ h3 {
 }
 
 .aside-info h2 {
-    font-size: 160%;
+    font-size: 160%; 
 }
 
 hr {
@@ -548,7 +548,7 @@ hr {
     width: calc(70% - 100px);
     margin-right: 50px;
     margin-left: 20px;
-    height: 700px;
+    height: 680px;
     overflow-x: scroll;
 }
 
