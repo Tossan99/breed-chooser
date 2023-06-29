@@ -200,13 +200,13 @@ hr {
     background-image: url(../images/sign-up-background.jpeg);
     background-size: cover;
     background-position: center;
-    height: 720px;
+    height: 685px;
     clear: left;
     margin: none;
 }
 
 .sign-up-form {
-    margin: 125px 0 0 10%;
+    margin: 75px 0 0 10%;
     max-width: 550px;
     position: absolute;
     background-color: #27374D88;
@@ -266,9 +266,9 @@ hr {
 }
 
 .submit-button:hover {
-    background-color: #27374D;
-    border-color: #0014FF;
-    color: #0014FF;
+    background-color: #DDE6ED;
+    border-color: #27374D;
+    color: #27374D;
 
 }
 
