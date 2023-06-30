@@ -837,3 +837,20 @@ footer {
         height: 650px;
     }
 }
+
+@media screen and (max-width: 360px) {
+    #logo {
+        font-size: 140%;
+        margin: 10px;
+        line-height: 50px;
+    }
+
+    #menu {
+        font-size: 100%;
+        margin: 3px;
+    }
+
+    #menu li {
+        margin: 10px;
+    }
+}
