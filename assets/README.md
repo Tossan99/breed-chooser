@@ -40,6 +40,35 @@ Breed Chooser is a website that helps users choose the right dog breed for their
 
 ### Validator testing
 
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+
 ### Unfixed Bugs
 
-- When hoovering over any social media icon in the footer the scroll bar disappears and does'nt return until the page is refreshed.
+- When hoovering over any social media icon in the footer the scroll bar disappears and does'nt return until the page is reloaded.
+
+## Deployment
+
+## Credits
+
+### Content
+
+- The code snippet for the different zoom effects is taken from the "[Love Running](https://www.youtube.com/watch?v=F0XY13Fjblw&t=77s)" walkthrough project.
+
+- The code to hide the scrollbar is from this [tutorial](https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp)
+
+- The google map was generated through [MAPS.ie](https://www.maps.ie/create-google-map/).
+
+- The social media icons are taken from [Font Awsome](https://fontawesome.com/)
+
+- The outline effect on the headings inside the dog boxes is from this[YouTube](https://www.youtube.com/watch?v=Hx1p1vQeHCg) tutorial.
+
+- The color palette used is from [Color Hunt](https://colorhunt.co/palette/27374d526d829db2bfdde6ed).
+
+### Media
+
+- All images used were taken from [Pexels](https://www.pexels.com/).
+
+
