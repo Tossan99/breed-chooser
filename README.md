@@ -2,25 +2,34 @@
 
 Breed Chooser is a website dedicated to everyone who has a problem choosing a dog breed that suits their needs and conditions. It provides users with information about different breeds and offers a way to sign up for a newsletter.
 
-Visit [Breed Chooser](https://8000-tossan99-dog-lovers-u50fhlaxli.us2.codeanyapp.com/assets/index.html) 
+Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/) 
 
 ## Features
 
 ### Existing Features
 
+- __Logo__
+
+- The Logo clearly shows right away that the user have arrived at the right website.
+- The text is large and imply the purpose of the website
+
+- __Header__
+
+- The header keeps consistent design and dimensions throughout all pages to make navigating the different pages smoother and more enjoyable
+
 - __Navigation Bar__
 
-- The navigation bar is available on all pages and keeps consistent dimensions throughout all the different pages.
+- The navigation bar is available on all pages and as a part of the header keeps consistent design and dimensions.
+
 - This feature allows users to easily navigate all pages without having to use the "back button". 
 
 - __Landing page__
 
-- The landing 
-- The landing includes all information and features the user need to navigate the site.
+- The landing introduce the user to the purpose of the website right away and have all information and features the user need to navigate the site.
 
 - __Information Box Aside__
 
-- The information box introduce the user to a few factors to consider when choosing what kind of dog to get
+- The information box suggests a few factors to consider when choosing what kind of breed to get.
 - It's dimensions and design is also consistent with some of the other pages to make navigating the different pages smoother.
 
 - __Breeds Section__
