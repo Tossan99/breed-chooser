@@ -10,37 +10,43 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 
 ### Logo
 
-- The Logo clearly shows right away that the user have arrived at the right website.
+- The Logo clearly shows right away that the user has arrived at the right website.
 - The text is large and imply the purpose of the website.
+
 ![Logo](assets/images/logo.jpg)
 
 ### Header
 
-- The header keeps consistent design and dimensions throughout all pages to make navigating the different pages smoother and more enjoyable.
+- The header keeps consistent design and dimensions throughout all pages to make navigating the different pages smooth and enjoyable.
+
+![header](assets/images/header.jpg)
 
 ### Navigation Bar
 
-- The navigation bar is available on all pages and as a part of the header keeps consistent design and dimensions.
+- The navigation bar is available on all pages as a part of the header and also keeps consistent design and dimensions.
 - This feature allows users to easily navigate all pages without having to use the "back button". 
+
 ![Navigation Bar](assets/images/nav-menu.jpg)
 
 ### Landing page
 
 - The landing introduce the user to the purpose of the website right away and have all information and features the user need to navigate the site.
 - This section immediately catches the user's attention with a few cute dog images and the interactive mouse hoovering.
-- This section is the hearth of the website and is used to navigate the information provided.
+- This section is the hearth of the website and is used to navigate all information provided.
+
 ![Landing Page](assets/images/landing-page.jpg)
 
 ### Information Box Aside
 
 - The information box suggests a few factors to consider when choosing what kind of breed to get.
-- It's dimensions and design is also consistent with some of the other pages to make navigating the different pages smoother.
+- It's dimensions and design is also consistent with some of the other pages to make navigating the different pages smooth.
 
 ![Information Box](assets/images/information-box-aside.jpg)
 
 ### Active, Inactive, Family Friendly and Hypoallergenic
 
 - These pages provide the user with the main information about the different dog breeds and also displays images of the breeds so the user can recognize them.
+
 ![Active Dogs](assets/images/active-dog.jpg)
 ### Contact
 
@@ -50,14 +56,23 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 
 - The sign up page feutures a beautiful image of a dog on a field.
 - On this page the user can sign up for our newsletter and choose to recive it through Email, text message or both.
+
 ![Sign Up](assets/images/sign-up.jpg)
 
 ### Footer
 
 - The footer section provides the user with social media links to futher interact with us through other mediums.
 - When hoovering over the social media icons they light up with their original logo color and grow in size.
-- This design makes the footer both very satisfying to interact with and helps the user recognise the company logo.
+- This design makes the footer both very satisfying to interact with and helps the user recognise the company logo with it's original color.
+
 ![Footer](assets/images/footer.jpg)
+
+### Design
+
+ - This is the color palette for the entire website.
+ - The colors has good contrast to eachother and matches all of the main images.
+
+ ![Color Palette](assets/images/color-palette.jpg)
 
 ### Features Left to Implement
 
@@ -67,8 +82,8 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 
 ### Responsiveness
 
-- All pages has been riorously tested from 470px width and up.
-- No images are stretched or pixelated
+- All pages has been rigorously tested for responsiveness from 470px width and up.
+- No images are stretched or pixelated.
 - No element owerlap eachother
 
 ### Validator testing
@@ -80,9 +95,11 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 
 ### Accessibility
 
-- All pages have been checked with lighthouse and passed with a good score
-[Lighthouse](/assets/images/lighthouse.jpg)
-- All links works and the external opens up a new tab in the browser"
+- All pages have been checked with lighthouse and passed with a good score.
+
+![Lighthouse](assets/images/lighthouse.jpg)
+
+- All links works and the external opens up a new tab in the browser.
 
 ### Unfixed Bugs
 
@@ -90,9 +107,8 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 
 ## Deployment
 
-The whole project was deployed to GitHub pages using the Main Branch source.
-
--All code and files has been submited to Github by using the Git commands "git add", "git commit" and "git push"
+- The whole project was deployed to GitHub pages using the Main Branch source.
+- All code and files has been submited to Github by using the Git commands "git add", "git commit" and "git push".
 - GitHub pages can be reached by opening the settings tab and then open the pages tab.
 
 ## Credits
@@ -101,13 +117,13 @@ The whole project was deployed to GitHub pages using the Main Branch source.
 
 - The code snippet for the different zoom effects is taken from the "[Love Running](https://www.youtube.com/watch?v=F0XY13Fjblw&t=77s)" walkthrough project.
 
-- The code to hide the scrollbar is from this [tutorial](https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp).
+- The code snippet to hide the scrollbar is from this [tutorial](https://www.w3schools.com/howto/howto_css_hide_scrollbars.asp).
 
 - The google map was generated through [MAPS.ie](https://www.maps.ie/create-google-map/).
 
 - The social media icons are taken from [Font Awsome](https://fontawesome.com/).
 
-- The outline effect on the headings inside the dog boxes is from this[YouTube](https://www.youtube.com/watch?v=Hx1p1vQeHCg) tutorial.
+- The outline effect on the headings inside the dog boxes is from this [YouTube](https://www.youtube.com/watch?v=Hx1p1vQeHCg) tutorial.
 
 - The color palette used is from [Color Hunt](https://colorhunt.co/palette/27374d526d829db2bfdde6ed).
 
