@@ -1,6 +1,8 @@
 # BREED CHOOSER
 
-Breed Chooser is a website that helps users choose the right dog breed for their needs and conditions.
+Breed Chooser is a website dedicated to everyone who has a problem choosing a dog breed that suits their needs and conditions. It provides users with information about different breeds and offers a way to sign up for a newsletter.
+
+Visit [Breed Chooser](https://8000-tossan99-dog-lovers-u50fhlaxli.us2.codeanyapp.com/assets/index.html) 
 
 ## Features
 
