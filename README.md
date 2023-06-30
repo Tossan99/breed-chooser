@@ -1,6 +1,6 @@
 # BREED CHOOSER
 
-Breed Chooser is a website dedicated to everyone who has a problem choosing a dog breed that suits their needs and conditions. It provides users with information about different breeds and offers a way to sign up for a newsletter.
+Breed Chooser is a website dedicated to everyone who has  problem choosing a dog breed that suits their needs and conditions. It provides users with information about different breeds and offers a way to sign up for a newsletter.
 
 Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/) 
 
@@ -8,52 +8,51 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 
 ## Features
 
-### Existing Features
-
-- __Logo__
+### Logo
 
 - The Logo clearly shows right away that the user have arrived at the right website.
 - The text is large and imply the purpose of the website.
 ![Logo](assets/images/logo.jpg)
 
-- __Header__
+### Header
 
 - The header keeps consistent design and dimensions throughout all pages to make navigating the different pages smoother and more enjoyable.
 
-- __Navigation Bar__
+### Navigation Bar
 
 - The navigation bar is available on all pages and as a part of the header keeps consistent design and dimensions.
 - This feature allows users to easily navigate all pages without having to use the "back button". 
 ![Navigation Bar](assets/images/nav-menu.jpg)
 
-- __Landing page__
+### Landing page
 
 - The landing introduce the user to the purpose of the website right away and have all information and features the user need to navigate the site.
 - This section immediately catches the user's attention with a few cute dog images and the interactive mouse hoovering.
 - This section is the hearth of the website and is used to navigate the information provided.
 ![Landing Page](assets/images/landing-page.jpg)
 
-- __Information Box Aside__
+### Information Box Aside
 
 - The information box suggests a few factors to consider when choosing what kind of breed to get.
 - It's dimensions and design is also consistent with some of the other pages to make navigating the different pages smoother.
+
 ![Information Box](assets/images/information-box-aside.jpg)
 
-- __Active, Inactive, Family Friendly and Hypoallergenic__
+### Active, Inactive, Family Friendly and Hypoallergenic
 
 - These pages provide the user with the main information about the different dog breeds and also displays images of the breeds so the user can recognize them.
 ![Active Dogs](assets/images/active-dog.jpg)
-- __Contact__
+### Contact
 
 - The contact page provides address, phone number, email and an interactive map that shows our location.
 
-- __Sign Up__
+### Sign Up
 
 - The sign up page feutures a beautiful image of a dog on a field.
 - On this page the user can sign up for our newsletter and choose to recive it through Email, text message or both.
 ![Sign Up](assets/images/sign-up.jpg)
 
-- __Footer__
+### Footer
 
 - The footer section provides the user with social media links to futher interact with us through other mediums.
 - When hoovering over the social media icons they light up with their original logo color and grow in size.
@@ -68,6 +67,9 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 
 ### Responsiveness
 
+- All pages has been riorously tested from 470px width and up.
+- No images are stretched or pixelated
+- No element owerlap eachother
 
 ### Validator testing
 
@@ -80,6 +82,7 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 
 - All pages have been checked with lighthouse and passed with a good score
 [Lighthouse](/assets/images/l)
+- All links works and the external opens up a new tab in the browser"
 
 ### Unfixed Bugs
 
