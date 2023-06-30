@@ -4,6 +4,8 @@ Breed Chooser is a website dedicated to everyone who has a problem choosing a do
 
 Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/) 
 
+![Responsice Mockup](https://github.com/tossan99)
+
 ## Features
 
 ### Existing Features
@@ -11,11 +13,11 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 - __Logo__
 
 - The Logo clearly shows right away that the user have arrived at the right website.
-- The text is large and imply the purpose of the website
+- The text is large and imply the purpose of the website.
 
 - __Header__
 
-- The header keeps consistent design and dimensions throughout all pages to make navigating the different pages smoother and more enjoyable
+- The header keeps consistent design and dimensions throughout all pages to make navigating the different pages smoother and more enjoyable.
 
 - __Navigation Bar__
 
@@ -26,16 +28,27 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 - __Landing page__
 
 - The landing introduce the user to the purpose of the website right away and have all information and features the user need to navigate the site.
+- This section immediately catches the user's attention with a few cute dog images and the interactive mouse hoovering.
+- This section is the hearth of the website and is used to navigate the information provided.
 
 - __Information Box Aside__
 
 - The information box suggests a few factors to consider when choosing what kind of breed to get.
 - It's dimensions and design is also consistent with some of the other pages to make navigating the different pages smoother.
 
-- __Breeds Section__
+- __Active, Inactive, Family Friendly and Hypoallergenic__
 
-- The breed section immediately catches the user's attention with a few cute dog images and the interactive mouse hoovering
-- This section is the hearth of the website and is used to navigate the information provided.
+- These pages provide the user with the main information about the different dog breeds and also displays images of the breeds so the user can recognize them.
+
+- __Contact__
+
+- The contact page provides address, phone number, email and an interactive map that shows our location.
+
+- __Sign Up__
+
+- The sign up page feutures a beautiful image of a dog on a field.
+
+- On this page the user can sign up for our newsletter and choose to recive it through Email, text message or both.
 
 - __Footer__
 
@@ -52,9 +65,9 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 ### Validator testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator]()
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator]()
 
 ### Unfixed Bugs
 
