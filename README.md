@@ -4,7 +4,7 @@ Breed Chooser is a website dedicated to everyone who has a problem choosing a do
 
 Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/) 
 
-![Responsice Mockup](https://github.com/Tossan99/dog-lovers/blob/main/assets/images/am-i-responsive.jpg)
+![Responsice Mockup](assets/images/am-i-responsive.jpg)
 
 ## Features
 
