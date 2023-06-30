@@ -69,6 +69,8 @@ Visit [Breed Chooser](https://8000-tossan99-dog-lovers-u50fhlaxli.us2.codeanyapp
 
 - The color palette used is from [Color Hunt](https://colorhunt.co/palette/27374d526d829db2bfdde6ed).
 
+- The fonts used is from [Google Fonts](https://fonts.google.com/)
+
 ### Media
 
 - All images used were taken from [Pexels](https://www.pexels.com/).
