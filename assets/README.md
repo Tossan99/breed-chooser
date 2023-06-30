@@ -1,39 +1,45 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# BREED CHOOSER
 
-Welcome,
+Breed Chooser is a website that helps users choose the right dog breed for their needs and conditions.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Features
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+### Existing Features
 
-## Codeanywhere Reminders
+- __Navigation Bar__
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+- The navigation bar is available on all pages and keeps consistent dimensions throughout all the different pages.
+- This feature allows users to easily navigate all pages without having to use the "back button". 
 
-`python3 -m http.server`
+- __Landing page__
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- The landing 
+- The landing includes all information and features the user need to navigate the site.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- __Information Box Aside__
 
-`http_server`
+- The information box introduce the user to a few factors to consider when choosing what kind of dog to get
+- It's dimensions and design is also consistent with some of the other pages to make navigating the different pages smoother.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- __Breeds Section__
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- The breed section immediately catches the user's attention with a few cute dog images and the interactive mouse hoovering
+- This section is the hearth of the website and is used to navigate the information provided.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- __Footer__
 
-To log into the Heroku toolbelt CLI:
+- The footer section provides the user with social media links to futher interact with us through other mediums.
+- When hoovering over the social media icons they light up with their original logo color and grow in size.
+- This design makes the footer both very satisfying to interact with and helps the user recognise the company logo.
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Features Left to Implement
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- I would love to figure out a way for the user to navigate between the breed categories without having to go back to the home page.
 
----
+## Testing
 
-Happy coding!
+### Validator testing
+
+### Unfixed Bugs
+
+- When hoovering over any social media icon in the footer the scroll bar disappears and does'nt return until the page is refreshed.
