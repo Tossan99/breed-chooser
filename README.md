@@ -81,7 +81,7 @@ Visit [Breed Chooser](https://tossan99.github.io/dog-lovers/)
 ### Accessibility
 
 - All pages have been checked with lighthouse and passed with a good score
-[Lighthouse](/assets/images/l)
+[Lighthouse](/assets/images/lighthouse.jpg)
 - All links works and the external opens up a new tab in the browser"
 
 ### Unfixed Bugs
